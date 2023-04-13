@@ -14,7 +14,7 @@
 ## ✍️ Writings:
 - [How-to-collaborate-on-github](https://github.com/eonist/How-to-collaborate-on-github)  ![platform](https://shields.io/github/stars/eonist/How-to-collaborate-on-github?style=purple)
 
-- ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eonist&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## 📚 Stackoverflow stats:
