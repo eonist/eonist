@@ -1,7 +1,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eonist&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-### Stackoverflow stats:
+## 📚 Stackoverflow stats:
 <img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=353337&theme=dracula"
 />
