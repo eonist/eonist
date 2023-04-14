@@ -11,9 +11,6 @@
 | [FlowLayout](https://github.com/eonist/FileStreamer) | Bi-directional layout framework for iOS | [![Tests](https://github.com/eonist/FlowLayout/actions/workflows/Tests.yml/badge.svg)](https://github.com/eonist/FlowLayout/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/8139ef2c-3fcb-449d-bfa0-190b99b6f6a0)](https://codebeat.co/projects/github-com-eonist-flowlayout-master) | ![platform](https://shields.io/github/stars/eonist/FlowLayout?style=purple) |
 | [Popover-label](https://github.com/eonist/Popover-label) | Popover label for iOS | [![Swift](https://github.com/eonist/Popover-label/actions/workflows/swift.yml/badge.svg)](https://github.com/eonist/Popover-label/actions/workflows/swift.yml) | [![codebeat badge](https://codebeat.co/badges/d719ea56-5725-4aa9-bd95-12e2b0a914ad)](https://codebeat.co/projects/github-com-eonist-popover-label-master) | ![platform](https://shields.io/github/stars/eonist/Popover-label?style=purple)
 
-## ✍️ Writings:
-- [How-to-collaborate-on-github](https://github.com/eonist/How-to-collaborate-on-github)  ![platform](https://shields.io/github/stars/eonist/How-to-collaborate-on-github?style=purple)
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eonist&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
@@ -21,5 +18,6 @@
 <img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=5389500&theme=dracula"
 />
+
 
 
