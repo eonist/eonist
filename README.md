@@ -11,10 +11,6 @@
 | [FlowLayout](https://github.com/eonist/FlowLayout) | Bi-directional layout framework for iOS | [![Tests](https://github.com/eonist/FlowLayout/actions/workflows/Tests.yml/badge.svg)](https://github.com/eonist/FlowLayout/actions/workflows/Tests.yml) | [![codebeat badge](https://codebeat.co/badges/8139ef2c-3fcb-449d-bfa0-190b99b6f6a0)](https://codebeat.co/projects/github-com-eonist-flowlayout-master) | ![platform](https://shields.io/github/stars/eonist/FlowLayout?style=purple) |
 | [Popover-label](https://github.com/eonist/Popover-label) | Popover label for iOS | [![Swift](https://github.com/eonist/Popover-label/actions/workflows/swift.yml/badge.svg)](https://github.com/eonist/Popover-label/actions/workflows/swift.yml) | [![codebeat badge](https://codebeat.co/badges/d719ea56-5725-4aa9-bd95-12e2b0a914ad)](https://codebeat.co/projects/github-com-eonist-popover-label-master) | ![platform](https://shields.io/github/stars/eonist/Popover-label?style=purple)
 
-## 🏆 Awards:
-<a href="https://www.producthunt.com/posts/flowlayout?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-flowlayout" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=132318&theme=light&period=daily" alt="FlowLayout - A&#0032;bi&#0045;directional&#0032;layout&#0032;framework&#0032;for&#0032;iOS | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eonist&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
@@ -23,5 +19,7 @@
   src="https://stackoverflow-card.vercel.app/?userID=5389500&theme=dracula"
 />
 
+## 🏆 Awards:
+<a href="https://www.producthunt.com/posts/flowlayout?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-flowlayout" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=132318&theme=light&period=daily" alt="FlowLayout - A&#0032;bi&#0045;directional&#0032;layout&#0032;framework&#0032;for&#0032;iOS | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 
