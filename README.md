@@ -1,3 +1,8 @@
+## 👋 About
+
+- CTO @ [sentry.co](https://sentry.co/) (VC funded)
+- Advisor @ [solgt.no](https://solgt.no/)
+
 ## 🌱 Open-source:
 | Package  | Description | Tests | CodeBeat | Stars |
 | ------------- | ------------- | ---- | ---- | ---- |
