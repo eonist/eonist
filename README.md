@@ -1,6 +1,6 @@
 ## 👋 About
 
-- CTO @ [sentry.co](https://sentry.co/) (VC funded)
+- CTO @ [sentry.co](https://sentry.co/)
 - Advisor @ [solgt.no](https://solgt.no/)
 
 ## 🌱 Open-source:
