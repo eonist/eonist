@@ -3,6 +3,9 @@
 - CTO @ [sentry.co](https://sentry.co/)
 - Advisor @ [solgt.no](https://solgt.no/)
 
+## 📝 My gists:
+[https://gist.github.com/eonist](https://gist.github.com/eonist) 
+
 ## 🌱 Open-source:
 | Package  | Description | Tests | CodeBeat | Stars |
 | ------------- | ------------- | ---- | ---- | ---- |
@@ -26,6 +29,3 @@
 
 ## 🏆 Awards:
 <a href="https://www.producthunt.com/posts/flowlayout?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-flowlayout" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=132318&theme=light&period=daily" alt="FlowLayout - A&#0032;bi&#0045;directional&#0032;layout&#0032;framework&#0032;for&#0032;iOS | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-## My gists:
-[https://gist.github.com/eonist](https://gist.github.com/eonist) 
