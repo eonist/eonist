@@ -6,8 +6,6 @@
 ## 📝 Recent articles:
 - [The art of prompt coding](https://gist.github.com/eonist/22e7458f9b38424af9d1bfd791b796a4)
 - [The art of automating Quality Assurance](https://eon.codes/blog/2022/11/24/the-art-of-automating-qa/) 
-- [https://gist.github.com/eonist](https://gist.github.com/eonist)
-- [https:/eon.codes/](https://eon.codes/) 
 
 ## 🌱 Open-source:
 | Package  | Description | Tests | CodeBeat | Stars |
