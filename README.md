@@ -4,6 +4,7 @@
 - Advisor @ [solgt.no](https://solgt.no/)
 
 ## 📝 My gists:
+[The art of prompt coding](https://gist.github.com/eonist/22e7458f9b38424af9d1bfd791b796a4) 
 [https://gist.github.com/eonist](https://gist.github.com/eonist) 
 
 ## 🌱 Open-source:
