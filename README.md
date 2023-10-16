@@ -6,7 +6,7 @@
 ## 📝 Recent articles:
 - [The art of prompt coding](https://gist.github.com/eonist/22e7458f9b38424af9d1bfd791b796a4)
 - [The art of automating quality assurance](https://eon.codes/blog/2022/11/24/the-art-of-automating-qa/)
-- [How to commit to_a gist directly_from github desktop or mobile](https://gist.github.com/eonist/3f3dd1902dd23bfeeaba3d83e9f0e9da) 
+- [How to commit to_a gist directly from git client](https://gist.github.com/eonist/3f3dd1902dd23bfeeaba3d83e9f0e9da) 
 
 ## 🌱 Open-source:
 | Package  | Description | Tests | CodeBeat | Stars |
