@@ -7,7 +7,8 @@
 - [The art of prompt coding](https://gist.github.com/eonist/22e7458f9b38424af9d1bfd791b796a4)
 - [The Art of Prompt Designing](https://gist.github.com/eonist/29c1a5f3803884422b2a73bc6559fb93 )
 - [The art of automating quality assurance](https://eon.codes/blog/2022/11/24/the-art-of-automating-qa/)
-- [Startup tools](https://gist.github.com/eonist/9d1ce0c5039aff1e3044a4906881b166)
+- [Startup apps](https://gist.github.com/eonist/9d1ce0c5039aff1e3044a4906881b166)
+- [The essential startup kit](https://gist.github.com/eonist/bfe460dd425a97f91db9285853213309)
 - [How to commit to a gist directly from a git-client](https://gist.github.com/eonist/3f3dd1902dd23bfeeaba3d83e9f0e9da) 
 
 ## 🌱 Open-source:
