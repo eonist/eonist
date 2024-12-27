@@ -10,7 +10,6 @@
 - [Startup apps](https://gist.github.com/eonist/9d1ce0c5039aff1e3044a4906881b166)
 - [The essential startup kit](https://gist.github.com/eonist/bfe460dd425a97f91db9285853213309)
 - [How to commit to a gist directly from a git-client](https://gist.github.com/eonist/3f3dd1902dd23bfeeaba3d83e9f0e9da)
-- [My AI generated Podcasts](https://gist.github.com/eonist/f7d26b0150eeee4496924ebba905f388)
 - [My substack articles](https://eoncodes.substack.com/)
 
 ## 🌱 Open-source:
