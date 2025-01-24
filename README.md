@@ -1,7 +1,6 @@
 ## 👋 About
 
 - CTO @ [sentry.co](https://sentry.co/)
-- Advisor @ [solgt.no](https://solgt.no/)
 - Dev @ AI-Wrapper SaaS Babel: [Babel](https://github.com/eonist/babel) 
 
 ## 📝 Recent articles:
