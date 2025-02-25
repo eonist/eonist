@@ -1,7 +1,7 @@
 ## 👋 About
 
 - CTO @ [sentry.co](https://sentry.co/)
-- Dev @ AI-Wrapper SaaS [Babel](https://github.com/eonist/babel) 
+- Open-sourcer @ AI-Wrapper SaaS [Babel](https://github.com/eonist/babel) and [Chimera](https://github.com/eonist/chimera) 
 
 ## 📝 Recent articles:
 - [The art of prompt coding](https://gist.github.com/eonist/22e7458f9b38424af9d1bfd791b796a4)
