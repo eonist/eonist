@@ -1,7 +1,7 @@
 ## 👋 About
 
 - CTO @ [sentry.co](https://sentry.co/)
-- Open-sourcer @ AI-Wrapper SaaS [Babel](https://github.com/eonist/babel) and CI tool-kit [Chimera](https://github.com/eonist/chimera) 
+- Open-sourcer @ [conduit.design](https://github.com/eonist/conduit)
 
 ## 📝 Recent articles:
 - [The art of prompt coding](https://gist.github.com/eonist/22e7458f9b38424af9d1bfd791b796a4)
