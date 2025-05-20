@@ -10,6 +10,7 @@
 - [The essential startup kit](https://gist.github.com/eonist/bfe460dd425a97f91db9285853213309)
 - [Startup Tools](https://gist.github.com/eonist/9d1ce0c5039aff1e3044a4906881b166)
 - [The art of automating quality assurance](https://eon.codes/blog/2022/11/24/the-art-of-automating-qa/)
+- [MCP dev overview]([mcp_dev_overview.md](https://gist.github.com/eonist/d2bdc9bb6ecfdc6389123991756140bb)) 
 - [My substack articles](https://eoncodes.substack.com/)
  
 ## 📊 GitHub Stats:
