@@ -17,8 +17,8 @@
 
 ![Total Stars](https://img.shields.io/github/stars/eonist?label=Total%20Stars&style=social)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eonist)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eonist&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📚 Stackoverflow stats:
 
 <img height="137px"
