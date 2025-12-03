@@ -1,13 +1,6 @@
 ## 👋 About
 
 - AI conductor @ [conduit.design](https://github.com/conduit-design/conduit_design)
-
-## 📝 Recent articles:
-- [The art of prompt coding](https://gist.github.com/eonist/22e7458f9b38424af9d1bfd791b796a4)
-- [AI design prompt templates](https://gist.github.com/eonist/166bf55c1c61b99d5712e826c6df0d15)
-- [The art of automating quality assurance](https://eon.codes/blog/2022/11/24/the-art-of-automating-qa/)
-- [MCP dev overview](https://gist.github.com/eonist/d2bdc9bb6ecfdc6389123991756140bb) 
-- [My substack articles](https://eoncodes.substack.com/)
  
 ## 📊 GitHub Stats:
 
