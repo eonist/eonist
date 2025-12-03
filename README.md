@@ -18,8 +18,6 @@
 ![Total Stars](https://img.shields.io/github/stars/eonist?label=Total%20Stars&style=social)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eonist)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eonist&theme=dark)](https://git.io/streak-stats)
  
 ## 📚 Stackoverflow stats:
 
