@@ -15,6 +15,7 @@
  
 ## 📊 GitHub Stats:
 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eonist&theme=dracula)
 
 ![Total Stars](https://img.shields.io/github/stars/eonist?label=Total%20Stars&style=social)
 
