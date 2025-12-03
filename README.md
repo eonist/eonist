@@ -1,7 +1,6 @@
 ## 👋 About
 
-- CTO @ [sentry.co](https://sentry.co/)
-- Open-sourcer @ [conduit.design](https://github.com/eonist/conduit)
+- AI conductor @ [conduit.design](https://github.com/conduit-design/conduit_design)
 
 ## 📝 Recent articles:
 - [The art of prompt coding](https://gist.github.com/eonist/22e7458f9b38424af9d1bfd791b796a4)
