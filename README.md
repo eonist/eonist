@@ -5,10 +5,7 @@
 
 ## 📝 Recent articles:
 - [The art of prompt coding](https://gist.github.com/eonist/22e7458f9b38424af9d1bfd791b796a4)
-- [The Art of Prompt Designing](https://gist.github.com/eonist/29c1a5f3803884422b2a73bc6559fb93 )
 - [AI design prompt templates](https://gist.github.com/eonist/166bf55c1c61b99d5712e826c6df0d15)
-- [The essential startup kit](https://gist.github.com/eonist/bfe460dd425a97f91db9285853213309)
-- [Startup Tools](https://gist.github.com/eonist/9d1ce0c5039aff1e3044a4906881b166)
 - [The art of automating quality assurance](https://eon.codes/blog/2022/11/24/the-art-of-automating-qa/)
 - [MCP dev overview](https://gist.github.com/eonist/d2bdc9bb6ecfdc6389123991756140bb) 
 - [My substack articles](https://eoncodes.substack.com/)
