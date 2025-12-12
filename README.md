@@ -1,7 +1,8 @@
 ## 👋 About
 
-- AI conductor @ [conduit.design](https://github.com/conduit-design/conduit_design)
- 
+- CTO [sentry.co / OpenSourcer](https://github.com/sentryco)
+- OpenSourcer @ [conduit.design](https://github.com/conduit-design/conduit_design)
+  
 ## 📊 GitHub Stats:
 
 ![Total Stars](https://img.shields.io/github/stars/eonist?label=Total%20Stars&style=social)
