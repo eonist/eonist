@@ -2,6 +2,7 @@
 
 - CTO [sentry.co / OpenSourcer](https://github.com/sentryco)
 - OpenSourcer @ [conduit.design](https://github.com/conduit-design/conduit_design)
+- DiffSense #1 On producthunt [https://github.com/edgeleap/diffsense](https://github.com/edgeleap/diffsense) 
   
 ## 📊 GitHub Stats:
 
