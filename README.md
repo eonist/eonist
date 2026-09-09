@@ -8,8 +8,6 @@
 
 ![Total Stars](https://img.shields.io/github/stars/eonist?label=Total%20Stars&style=social)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eonist&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🏆 Awards:
 
 <a href="https://www.producthunt.com/products/diffsense?embed=true&amp;utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_campaign=badge-diffsense" target="_blank" rel="noopener noreferrer"><img alt="DiffSense - Local AI git commit generator for Apple Silicon | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1053209&amp;theme=light&amp;period=daily&amp;t=1766760847436"></a>
