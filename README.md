@@ -2,8 +2,7 @@
 
 - Creating world class AI brands for startups: https://alchemist-studio.github.io/
 - Co-founder @ [sentry.co](https://github.com/sentryco) (VC-Funded / Coming early 2027)
-- DiffSense #1 On producthunt [https://github.com/edgeleap/diffsense](https://github.com/edgeleap/diffsense) 
-  
+
 ## 📊 GitHub Stats:
 
 ![Total Stars](https://img.shields.io/github/stars/eonist?label=Total%20Stars&style=social)
