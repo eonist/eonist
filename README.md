@@ -1,7 +1,6 @@
 ## 👋 About
 
-- Creating world class AI brands for startups: https://alchemist-studio.github.io/
-- Co-founder @ [sentry.co](https://github.com/sentryco) (VC-Funded / Coming early 2027)
+- CTO / Co-founder @ [sentry.co](https://github.com/sentryco) (VC-Funded / Coming early 2027)
 
 ## 📊 GitHub Stats:
 
