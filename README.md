@@ -1,6 +1,6 @@
 ## 👋 About
 
-- CTO / Co-founder @ [sentry.co](https://github.com/sentryco) (VC-Funded / Coming early 2027)
+- CTO / Co-founder @ [sentry.co](https://github.com/sentryco) (VC-Funded / Launching early 2027)
 
 ## 📊 GitHub Stats:
 
